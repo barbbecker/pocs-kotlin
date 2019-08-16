@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72607981164",
+    "firebase_url": "https://my-first-firebase-9266c.firebaseio.com",
+    "project_id": "my-first-firebase-9266c",
+    "storage_bucket": "my-first-firebase-9266c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72607981164:android:0074b20fe8282301",
+        "android_client_info": {
+          "package_name": "com.barbbecker.fundatec.myfirstfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72607981164-o7nrfnmud170ubrpas4p370ijvcuntfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barbbecker.fundatec.myfirstfirebase",
+            "certificate_hash": "a3c4a3697c06f68bfe2fbfdd7e0ad4b7bf3b1a40"
+          }
+        },
+        {
+          "client_id": "72607981164-a1p2hvfdjksmsh87b0uijfjkqhgak6lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-7xdrWwafo92paYyRmEi_VMpjJ0pnHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72607981164-a1p2hvfdjksmsh87b0uijfjkqhgak6lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
